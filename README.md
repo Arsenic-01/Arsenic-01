@@ -1,6 +1,12 @@
 ## 💫 About Me:
-🔭 I’m currently working on a notes web app called studystack - https://studystack01.vercel.app/<br>⚒️ My recent internship - https://www.sunilbhor.com/<br>⚡ My recent hobby project - https://cloudgram-01.vercel.app/ <br>🌱 I’m currently learning data structures and algorithms + web development<br>🤔 I’m looking for help with AI/ML and backend development using java<br>📫 How to reach me: vedbhor25@gmail.com<br>😄 Pronouns: he/him<br>⚠️ Fun fact: I can actually cook 👨‍🍳<br><br>
-
+🙋‍♂️ Hey there! I'm **Vedant Bhor**, an 18-year-old full-stack web developer who loves building cool and exciting projects.  
+🚀 **Latest Build:** A sleek notes web app  👉 [Try it out!](https://studystack01.vercel.app/) | 🎥 [Demo](https://youtu.be/bcyYHZSmW88)  
+⚒️ **Internship Gig:** Recently worked at [Sunil Bhor & Associates](https://www.sunilbhor.com/) – Built their landing page from scratch!  
+⚡ **Hobby Project:** Check out [CloudGram](https://cloudgram-01.vercel.app/) – my latest fun experiment!  
+🌱 **Currently Exploring:** DSA, web dev, and leveling up my coding game  
+🤖 **Looking for Help In:** AI/ML and backend development with Java  
+📫 **Hit Me Up:** vedbhor25@gmail.com  
+👨‍🍳 **Fun Fact:** I can actually cook—tech and food, best combo! 😎
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/862682607162359819) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vedant-bhor-39287828b/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/arsenic_dev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vedbhor25@gmail.com) 
