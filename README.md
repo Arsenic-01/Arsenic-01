@@ -3,6 +3,7 @@
 🚀 **Latest Build:** A sleek notes web app  👉 [Try it out!](https://studystack01.vercel.app/) | 🎥 [Demo](https://youtu.be/bcyYHZSmW88)  
 ⚒️ **Internship Gig:** Recently worked at [Sunil Bhor & Associates](https://www.sunilbhor.com/) – Built their landing page from scratch!  
 ⚡ **Hobby Project:** Check out [CloudGram](https://cloudgram-01.vercel.app/) – my latest fun experiment!  
+💻 **Hobby Project:** Check out [Prompt2Sketch](https://github.com/Arsenic-01/Prompt2Sketch) – AI Powered Whiteboard!  
 🌱 **Currently Exploring:** DSA, web dev, and leveling up my coding game  
 🤖 **Looking for Help In:** AI/ML and backend development with Java  
 📫 **Hit Me Up:** vedbhor25@gmail.com  
