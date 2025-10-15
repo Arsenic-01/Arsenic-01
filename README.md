@@ -4,8 +4,8 @@
 ⚒️ **Internship Gig:** Recently worked at [Sunil Bhor & Associates](https://www.sunilbhor.com/) – Built their landing page from scratch!  
 ⚡ **Hobby Project:** Check out [CloudGram](https://cloudgram-01.vercel.app/) – my latest fun experiment!  
 💻 **Hobby Project:** Check out [Prompt2Sketch](https://github.com/Arsenic-01/Prompt2Sketch) – AI Powered Whiteboard!  
-🌱 **Currently Exploring:** DSA, web dev, and leveling up my coding game  
-🤖 **Looking for Help In:** AI/ML and backend development with Java  
+🌱 **Currently Exploring:** Go, Rust, DSA, and web dev
+🤖 **Looking for Help In:** Backend development with Go/Rust and diving into AI/ML
 📫 **Hit Me Up:** vedbhor25@gmail.com  
 👨‍🍳 **Fun Fact:** I can actually cook—tech and food, best combo! 😎
 
